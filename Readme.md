@@ -17,6 +17,7 @@ For background and detailed results, see the accompanying [blog post](https://nd
 - `ner_rank.py`: The main ranking harness
 - `spacy_gliner_nlp_engine.py`: Presidio plugin for GLiNER integration
 - `language-config.yml`: spaCy configuration with organization name recognition enabled
+- (dataset loaded dynamically [from HuggingFace](https://huggingface.co/datasets/ndurner/german-ner))
 
 ## Usage
 
